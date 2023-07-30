@@ -3,7 +3,7 @@
 
 ## Information of the project
 
-This project was to improve my knowledge and problem sovling skills within JavaScript. The aim of the project was to generate a board game and ensuring the gameplay were handled correctly by logging in the console the outcome of the user input.
+The aim of the project was to generate a board game and ensuring the gameplay were handled correctly by logging in the console the outcome of the user input. This project was a great way to improve my knowledge and problem-sovling skills within JavaScript. 
 
 ## How to use
 Download Node.js (LTS version recommended).
